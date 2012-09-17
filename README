@@ -1,0 +1,7 @@
+PIC OneWire Library
+
+Welcome to the OneWire Library for PIC. This library implements the OneWire protocol created by Dallas Semiconductor Corp.
+It is a derivate of the original OneWire Library for Arduino found at http://www.pjrc.com/teensy/td_libs_OneWire.html
+
+It has been ported to PIC by Ivan de Jesus Deras (ideras@gmail.com).
+https://sites.google.com/site/myclassesunitec/
